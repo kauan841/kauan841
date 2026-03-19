@@ -18,8 +18,7 @@
 <p align="center">
 🌍 Mogi das Cruzes, São Paulo, Brasil<br>
 🖥️ <a href="https://github.com/kauan841" target="_blank">Meu GitHub</a><br>
-🚀 Atualmente trabalhando em <a href="https://github.com/kauan841/projeto-1---Tabuda" target="_blank">Projeto Tabuada em Python</a>
-</p>
+
 
 <!-- Seção destaque de Python (menor, complementar ao banner) -->
 <div align="center" style="border: 2px solid #306998; border-radius: 15px; padding: 20px; width: 350px; background-color: #f0f8ff; margin: 20px auto;">
