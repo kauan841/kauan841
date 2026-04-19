@@ -81,15 +81,18 @@ print(eu.missão())
 
 ## 🏆 Projetos que me orgulho
 
-<div align="center">
+<div align=\"center\">
 
 | | Projeto | O que faz | Destaque | Nível |
 |--|---------|-----------|----------|-------|
-| 🔐 | [CPF Validator](https://github.com/kauan841/python_exercicios) | Valida CPF com algoritmo da Receita Federal | Implementado do zero, sem bibliotecas | 🟠 Intermediário |
-| 👤 | [Sistema de Login](https://github.com/kauan841/python_exercicios) | Auth completa com cadastro e tentativas | `if __name__ == "__main__"` + funções | 🟠 Intermediário |
-| 📦 | [Controle de Estoque](https://github.com/kauan841/python_exercicios) | CRUD de produtos no terminal | Validação de quantidade com `dict.get()` | 🟡 Básico |
-| ✅ | [Todo List](https://github.com/kauan841/python_exercicios) | Lista de tarefas interativa | Menu dinâmico | 🟢 Iniciante |
-| 🛒 | [Shopping List](https://github.com/kauan841/python_exercicios) | Lista de compras | Prático e funcional | 🟢 Iniciante |
+| 💾 | [**Sistema CRUD de Usuários**](https://github.com/kauan841/sistema-usuarios-crud-python) | CRUD completo: criar, ler, atualizar e remover usuários | Simulação real de back-end via terminal | 🔴 Avançado |
+| 🔐 | [CPF Validator](https://github.com/kauan841/python-journey/tree/main/mini-projeto_py) | Valida CPF com algoritmo da Receita Federal | Implementado do zero, sem bibliotecas | 🟠 Intermediário |
+| 👤 | [Sistema de Login](https://github.com/kauan841/python-journey/tree/main/mini-projeto_py) | Auth completa com cadastro e tentativas | `if __name__ == \"__main__\"` + funções | 🟠 Intermediário |
+| 📝 | [Sistema de Notas](https://github.com/kauan841/python-journey/tree/main/mini-projeto_py) | Calcula média e valida aprovação | Lógica condicional bem estruturada | 🟠 Intermediário |
+| 📦 | [Controle de Estoque](https://github.com/kauan841/python-journey/tree/main/mini-projeto_py) | CRUD de produtos no terminal | Validação de quantidade com `dict.get()` | 🟡 Básico |
+| ✅ | [Todo List](https://github.com/kauan841/python-journey/tree/main/mini-projeto_py) | Lista de tarefas interativa | Menu dinâmico | 🟢 Iniciante |
+| 🛒 | [Shopping List](https://github.com/kauan841/python-journey/tree/main/mini-projeto_py) | Lista de compras | Prático e funcional | 🟢 Iniciante |
+| 📚 | [**Python Journey**](https://github.com/kauan841/python-journey) | Repositório completo da minha evolução | +66 commits documentando cada passo | 🔥 Em andamento |
 
 </div>
 
@@ -97,16 +100,16 @@ print(eu.missão())
 
 ## 🗺️ Minha Jornada — Do zero ao Back-End
 
-<div align="center">
+<div align=\"center\">
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 FASE 1 — Fundamentos ✅          FASE 2 — Evoluindo 🔄
 ─────────────────────            ─────────────────────
-✅ Lógica de programação         🔄 Orientação a Objetos
-✅ Python básico                 🔄 Tratamento de exceções
-✅ Git & GitHub na prática       🔄 Arquivos e JSON
-✅ Funções e estruturas          🔄 Testes com pytest
-✅ Mini projetos de terminal     🔄 Ambiente virtual
+✅ Lógica de programação         ✅ Funções e modularização
+✅ Python básico                 ✅ CRUD completo em Python
+✅ Git & GitHub na prática       🔄 Orientação a Objetos
+✅ Funções e estruturas          🔄 Tratamento de exceções
+✅ Mini projetos de terminal     🔄 Arquivos e JSON
 FASE 3 — Back-End 🔜             FASE 4 — Mercado 🔜
 ─────────────────────            ─────────────────────
 🔜 Flask & FastAPI               🔜 Deploy no Railway/Render
@@ -183,3 +186,4 @@ FASE 3 — Back-End 🔜             FASE 4 — Mercado 🔜
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=footer&animation=twinkling&fontColor=fff&fontSize=20&text=Obrigado%20pela%20visita!%20🚀&fontAlignY=65" />
 
 </div>
+
