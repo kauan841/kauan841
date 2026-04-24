@@ -86,6 +86,7 @@ print(eu.missão())
 | | Projeto | O que faz | Destaque | Nível |
 |--|---------|-----------|----------|-------|
 | 💾 | [**Sistema CRUD de Usuários**](https://github.com/kauan841/sistema-usuarios-crud-python) | CRUD completo: criar, ler, atualizar e remover usuários | Simulação real de back-end via terminal | 🔴 Avançado |
+| 🔐 | [**Sistema de Login com Dicionários**](https://github.com/kauan841/login-dict-system) 🆕 | Autenticação com cadastro e login de usuários via terminal | `dict` + `try/except` + bloqueio de duplicados + menu interativo | 🟠 Intermediário |
 | 🔐 | [CPF Validator](https://github.com/kauan841/python-journey/tree/main/mini-projeto_py) | Valida CPF com algoritmo da Receita Federal | Implementado do zero, sem bibliotecas | 🟠 Intermediário |
 | 👤 | [Sistema de Login](https://github.com/kauan841/python-journey/tree/main/mini-projeto_py) | Auth completa com cadastro e tentativas | `if __name__ == \"__main__\"` + funções | 🟠 Intermediário |
 | 📝 | [Sistema de Notas](https://github.com/kauan841/python-journey/tree/main/mini-projeto_py) | Calcula média e valida aprovação | Lógica condicional bem estruturada | 🟠 Intermediário |
@@ -186,4 +187,3 @@ FASE 3 — Back-End 🔜             FASE 4 — Mercado 🔜
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=footer&animation=twinkling&fontColor=fff&fontSize=20&text=Obrigado%20pela%20visita!%20🚀&fontAlignY=65" />
 
 </div>
-
