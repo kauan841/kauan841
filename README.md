@@ -88,6 +88,7 @@ print(eu.missão())
 | 💾 | [**Sistema CRUD de Usuários**](https://github.com/kauan841/sistema-usuarios-crud-python) | CRUD completo: criar, ler, atualizar e remover usuários | Simulação real de back-end via terminal | 🔴 Avançado |
 | 🔐 | [**Sistema de Login com Dicionários**](https://github.com/kauan841/login-dict-system) 🆕 | Autenticação com cadastro e login de usuários via terminal | `dict` + `try/except` + bloqueio de duplicados + menu interativo | 🟠 Intermediário |
 | 🔐 | [CPF Validator](https://github.com/kauan841/python-journey/tree/main/mini-projeto_py) | Valida CPF com algoritmo da Receita Federal | Implementado do zero, sem bibliotecas | 🟠 Intermediário |
+| 🏦 | [**Sistema Bancário**](https://github.com/kauan841/python-journey/blob/main/mini-projeto_py/sistema-bancario-simples.py) | Depósito, saque e saldo via terminal | `try/except` + validação de entradas | 🟠 Intermediário |
 | 👤 | [Sistema de Login](https://github.com/kauan841/python-journey/tree/main/mini-projeto_py) | Auth completa com cadastro e tentativas | `if __name__ == \"__main__\"` + funções | 🟠 Intermediário |
 | 📝 | [Sistema de Notas](https://github.com/kauan841/python-journey/tree/main/mini-projeto_py) | Calcula média e valida aprovação | Lógica condicional bem estruturada | 🟠 Intermediário |
 | 📦 | [Controle de Estoque](https://github.com/kauan841/python-journey/tree/main/mini-projeto_py) | CRUD de produtos no terminal | Validação de quantidade com `dict.get()` | 🟡 Básico |
@@ -95,30 +96,33 @@ print(eu.missão())
 | 🛒 | [Shopping List](https://github.com/kauan841/python-journey/tree/main/mini-projeto_py) | Lista de compras | Prático e funcional | 🟢 Iniciante |
 | 📚 | [**Python Journey**](https://github.com/kauan841/python-journey) | Repositório completo da minha evolução | +66 commits documentando cada passo | 🔥 Em andamento |
 
+💡 Os mini projetos estão dentro de python journey.
+
 </div>
 
 ---
-
 ## 🗺️ Minha Jornada — Do zero ao Back-End
 
 <div align=\"center\">
+<pre>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FASE 1 — Fundamentos ✅              FASE 2 — Evoluindo 🔄
+─────────────────────                ─────────────────────
+✅ Lógica de programação             ✅ Funções e modularização
+✅ Python básico                     ✅ CRUD completo em Python
+✅ Git & GitHub na prática           🔄 Orientação a Objetos
+✅ Funções e estruturas              🔄 Tratamento de exceções
+✅ Mini projetos de terminal         🔄 Arquivos e JSON
 
+FASE 3 — Back-End 🔜                 FASE 4 — Mercado 🔜
+─────────────────────                ─────────────────────
+🔜 Flask & FastAPI                   🔜 Deploy no Railway/Render
+🔜 APIs REST                         🔜 Portfólio completo
+🔜 PostgreSQL & SQLite               🔜 Primeiro estágio
+🔜 Autenticação JWT                  🔜 Contribuição open source
+🔜 Docker                            🔜 Dev Back-End júnior 🚀
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-FASE 1 — Fundamentos ✅          FASE 2 — Evoluindo 🔄
-─────────────────────            ─────────────────────
-✅ Lógica de programação         ✅ Funções e modularização
-✅ Python básico                 ✅ CRUD completo em Python
-✅ Git & GitHub na prática       🔄 Orientação a Objetos
-✅ Funções e estruturas          🔄 Tratamento de exceções
-✅ Mini projetos de terminal     🔄 Arquivos e JSON
-FASE 3 — Back-End 🔜             FASE 4 — Mercado 🔜
-─────────────────────            ─────────────────────
-🔜 Flask & FastAPI               🔜 Deploy no Railway/Render
-🔜 APIs REST                     🔜 Portfólio completo
-🔜 PostgreSQL & SQLite           🔜 Primeiro estágio
-🔜 Autenticação JWT              🔜 Contribuição open source
-🔜 Docker                        🔜 Dev Back-End júnior 🚀
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</pre>
 </div>
 
 ---
